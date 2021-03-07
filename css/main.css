@@ -9,12 +9,15 @@ body * {
 
 body {
     background-color: #611F7E;
+    overflow: hidden;
 }
 
 .background {
     display: inline-block;
-    width: 100%;
-    height: 100vh;
+    width: 110%;
+    height: 110vh;
+    margin-top: -15px;
+    margin-left: -15px;
     background-image: url(../img/Hill.png);
     background-repeat: no-repeat;
     background-size: cover;
