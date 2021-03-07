@@ -118,7 +118,7 @@ form > .form-row > label {
     font-size: 15px;
     line-height: 20px;
     text-transform: uppercase;
-    color: #D5D5D5;
+    color: #8d8b8b;
 }
 
 form > .form-row > input {
@@ -128,6 +128,11 @@ form > .form-row > input {
     line-height: 30px;
     border: none;
     border-bottom: 2px solid #ccc;
+}
+
+input::placeholder {
+    color: #ccc;
+    font-style: italic;
 }
 
 form > .form-row > button {
