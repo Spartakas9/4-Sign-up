@@ -9,9 +9,9 @@ _25 Group website project_
 
 This project is for educational porpuses only.
 
-Site published at https://github.com/Spartakas9/4-Sign-up
+Site published at https://spartakas9.github.io/4-Sign-up/
 
-Design: [Sign up](https://spartakas9.github.io/4-Sign-up/)
+Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
 ## Project features
 
